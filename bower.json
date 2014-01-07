@@ -2,7 +2,16 @@
   "name": "angular-readable-time",
   "version": "0.1.0",
   "description": "AngularJS filter for converting a number of seconds to a human-readable time.",
-  "author": "Joseph Wynn",
+  "homepage": "https://github.com/wildlyinaccurate/angular-readable-time",
+  "authors": [
+    "Joseph Wynn <joseph@wildlyinaccurate.com>"
+  ],
+  "keywords": [
+    "angular",
+    "human",
+    "readable",
+    "time"
+  ],
   "license": "MIT",
   "main": "./angular-readable-time.js",
   "dependencies": {
