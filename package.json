@@ -6,6 +6,7 @@
     "url": "https://github.com/wildlyinaccurate/angular-readable-time.git"
   },
   "dependencies": {},
+  "main": "./angular-readable-time.js",
   "devDependencies": {
     "angular": "^1.6.1",
     "angular-mocks": "^1.6.1",
