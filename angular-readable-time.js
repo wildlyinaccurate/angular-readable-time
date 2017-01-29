@@ -11,8 +11,8 @@
       year = day * 365;
       month = year / 12;
       format = function(number, string) {
-        string = number === 1 ? string : "" + string + "s";
-        return "" + number + " " + string;
+        string = number === 1 ? string : string + "s";
+        return number + " " + string;
       };
       switch (false) {
         case !(seconds < minute):
@@ -35,6 +35,4 @@
 
 }).call(this);
 
-/*
-//@ sourceMappingURL=angular-readable-time.js.map
-*/
+//# sourceMappingURL=angular-readable-time.js.map
