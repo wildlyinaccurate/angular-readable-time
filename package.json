@@ -1,5 +1,6 @@
 {
   "name": "angular-readable-time",
+  "description": "AngularJS filter for converting a number of seconds to a human-readable time.",
   "version": "0.1.2",
   "repository": {
     "type": "git",
